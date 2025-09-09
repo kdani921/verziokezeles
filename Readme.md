@@ -16,3 +16,4 @@
     > git config user.email "kdani921@gmail.com"
 - az új verzió megszületése:
     > git comit -m "first commit"
+- távoli repo létrehozása(Github)
