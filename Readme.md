@@ -16,4 +16,12 @@
     > git config user.email "kdani921@gmail.com"
 - az új verzió megszületése:
     > git comit -m "first commit"
+
+
 - távoli repo létrehozása(Github)
+- a helyi repo és a Github repo összekapcsolása, úgy hogy a PAT történjen a hitelesítés(token@):
+    > git remote add origin https://token@github.com/....
+- az első push:
+    > git push -u origin master
+- további push:
+    > git push
